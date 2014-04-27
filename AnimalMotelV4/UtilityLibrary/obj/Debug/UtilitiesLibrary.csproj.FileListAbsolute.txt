@@ -1,0 +1,5 @@
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.dll
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.pdb
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.dll
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.pdb

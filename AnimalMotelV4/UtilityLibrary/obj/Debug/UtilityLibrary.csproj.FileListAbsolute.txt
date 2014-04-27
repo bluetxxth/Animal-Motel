@@ -1,0 +1,14 @@
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.dll
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.pdb
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.dll
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.pdb
+K:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.dll
+K:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.pdb
+K:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\obj\Debug\ResolveAssemblyReference.cache
+K:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.dll
+K:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.pdb
+I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.dll
+I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\bin\Debug\UtilityLibrary.pdb
+I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.dll
+I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4.1\AnimalMotelV4\UtilityLibrary\obj\Debug\UtilityLibrary.pdb

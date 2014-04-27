@@ -1,0 +1,13 @@
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\obj\x86\Debug\AnimalMotelV4.MainForm.resources
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\obj\x86\Debug\AnimalMotelV4.Properties.Resources.resources
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\bin\Debug\AnimalMotelV4.exe
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\bin\Debug\AnimalMotelV4.pdb
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\bin\Debug\AnimalLibrary.dll
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\bin\Debug\UtilityLibrary.dll
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\bin\Debug\AnimalLibrary.pdb
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\bin\Debug\UtilityLibrary.pdb
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\obj\x86\Debug\AnimalMotelV4.exe
+D:\work\school\civ_eng\gral_workspaces\visualstudio2010c#\AnimalMotelV4\AnimalMotelV4\obj\x86\Debug\AnimalMotelV4.pdb
